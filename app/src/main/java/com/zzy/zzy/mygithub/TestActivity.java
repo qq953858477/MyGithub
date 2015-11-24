@@ -11,6 +11,6 @@ public class TestActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_test);
         Log.i("zzy", "hahs!!!!!!!!:");
-        Log.i("zzy你好!","");
+        Log.i("zzy 你好!","");
     }
 }
